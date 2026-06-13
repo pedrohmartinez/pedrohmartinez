@@ -22,7 +22,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=henriquepedromartinez-dotcom&locale=pt-br&layout=compact&langs_count=8&theme=dracula
+          options: username=pedrohmartinez&locale=pt-br&layout=compact&langs_count=8&theme=dracula
           path: dist/languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
